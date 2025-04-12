@@ -38,4 +38,4 @@ Regularidad:
 |Listado<br>+<br>detalle| 1. Listado de pedidos filtrado por rango de fecha, muestra id pedido,fecha de compra, nombre cliente y estado => detalle muestra datos completos del cliente y del pedido|
 |CUU/Epic|1. Registrar cliente<br>2. Realizar pedidos|
 
-Aún no dwfinimos para Aprobación Directa.
+Aún no definimos para Aprobación Directa.
