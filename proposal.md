@@ -21,7 +21,8 @@ Se trata de un proyecto de E-commerce dedicada a la venta de productos de comput
 
 ### Modelo
 
-![imagen del modelo]()
+![modelo_dsw](https://github.com/user-attachments/assets/1b3095b0-00a2-4b50-9815-3840de6109ee)
+
 
 _Nota_: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
