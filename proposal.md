@@ -37,3 +37,5 @@ Regularidad:
 |CRUD dependiente|1. CRUD Pedido {depende de} CRUD Producto, CRUD Cliente|
 |Listado<br>+<br>detalle| 1. Listado de pedidos filtrado por rango de fecha, muestra id pedido,fecha de compra, nombre cliente y estado => detalle muestra datos completos del cliente y del pedido|
 |CUU/Epic|1. Registrar cliente<br>2. Realizar pedidos|
+
+Aún no dwfinimos para Aprobación Directa.
