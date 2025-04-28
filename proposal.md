@@ -17,7 +17,7 @@
 
 ### Descripción
 
-Se trata de un proyecto de E-commerce dedicada a la venta de productos de computación que contega un carrito de compras, funcionalidades de búsqueda con filtros y con una organización clara de los productos. Se permitirá realizar pedidos y que los usuarios se registren.
+Se trata de un proyecto de E-commerce dedicada a la gestión de venta de productos de computación que contega un carrito de compras, funcionalidades de búsqueda con filtros y con una organización clara de los productos. Se permitirá realizar pedidos a los clientes y que los usuarios se registren.
 
 ### Modelo
 
@@ -33,9 +33,9 @@ _Nota_: incluir un link con la imagen de un modelo, puede ser modelo de dominio,
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Producto<br>2. CRUD Cliente|
-|CRUD dependiente|1. CRUD Pedido {depende de} CRUD Producto, CRUD Cliente|
+|CRUD simple|1. CRUD Categoría<br>2. CRUD Usuario|
+|CRUD dependiente|1. CRUD Producto {depende de} CRUD Categoría|
 |Listado<br>+<br>detalle| 1. Listado de pedidos filtrado por rango de fecha, muestra id pedido,fecha de compra, nombre cliente y estado => detalle muestra datos completos del cliente y del pedido|
-|CUU/Epic|1. Registrar cliente<br>2. Realizar pedidos|
+|CUU/Epic|1. Registrar pedidos|
 
 Aún no definimos para Aprobación Directa.
