@@ -21,7 +21,7 @@ Se trata de un proyecto de E-commerce dedicada a la gestión de venta de product
 
 ### Modelo
 
-![Modelo actualizado](Diagrama%20de%20desarrollo.jpg)
+![Modelo actualizado](Diagrama%20de%20desarrollo.png)
 
 
 _Nota_: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
