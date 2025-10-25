@@ -11,7 +11,6 @@
 
 - [frontend app](https://github.com/Belen-Giannone/Frontend-dsw)
 - [backend app](https://github.com/Bere167/DSW-backend)
-  _Nota_: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
 
