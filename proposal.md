@@ -20,7 +20,7 @@ Se trata de un proyecto de E-commerce dedicada a la gestión de venta de product
 
 ### Modelo
 
-![Modelo actualizado](Modelo.png)
+![Modelo actualizado](https://github.com/Belen-Giannone/DSW-2025-Giannone-D-Alleva/blob/main/Diagrama%20dsw.png)
 
 _Nota_: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
